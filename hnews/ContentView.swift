@@ -17,6 +17,9 @@ struct ContentView: View {
             }
             .navigationBarTitle("H News")
         }
+        .onAppear {
+            self.networkManager.fetchData()
+        }
     }
 }
 
