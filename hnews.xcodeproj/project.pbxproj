@@ -14,6 +14,7 @@
 		3A23604E2A360ECC00B2C7AF /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A23604D2A360ECC00B2C7AF /* NetworkManager.swift */; };
 		3A2360502A36107700B2C7AF /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A23604F2A36107700B2C7AF /* PostData.swift */; };
 		3A2360532A3616EC00B2C7AF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2360522A3616EC00B2C7AF /* DetailView.swift */; };
+		3A2360552A3619CD00B2C7AF /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2360542A3619CD00B2C7AF /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		3A23604D2A360ECC00B2C7AF /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		3A23604F2A36107700B2C7AF /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		3A2360522A3616EC00B2C7AF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		3A2360542A3619CD00B2C7AF /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				3A2360402A360B8000B2C7AF /* ContentView.swift */,
 				3A2360522A3616EC00B2C7AF /* DetailView.swift */,
+				3A2360542A3619CD00B2C7AF /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				3A23604E2A360ECC00B2C7AF /* NetworkManager.swift in Sources */,
 				3A2360502A36107700B2C7AF /* PostData.swift in Sources */,
 				3A2360412A360B8000B2C7AF /* ContentView.swift in Sources */,
+				3A2360552A3619CD00B2C7AF /* WebView.swift in Sources */,
 				3A2360532A3616EC00B2C7AF /* DetailView.swift in Sources */,
 				3A23603F2A360B8000B2C7AF /* hnewsApp.swift in Sources */,
 			);
